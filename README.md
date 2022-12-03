@@ -7,7 +7,7 @@
 <h4 align="center">Guias para fazer o melhor uso das tecnologias necessárias</h4>
 
 <p align="center">
-  <a href="#about">Sobre</a> •
+  <a href="#sobre">Sobre</a> •
   <a href="#contribuindo">Contribuindo</a>
 </p>
 
@@ -47,7 +47,7 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 - Criação de rotas utilizando o [tRPC](https://trpc.io/) com schema de validação ([Zod](https://zod.dev/)) e autenticação por meio de contextos
 - Criação de modelos e entidades relacionadas no [Prisma](https://www.prisma.io/)
 - Mutações e queries no banco de dados com o [Prisma](https://www.prisma.io/)
-- Componentização e extração de tokens de design usando [Tailwind CSS](https://tailwindcss.com/) e components primitivos (Radix UI ou Headless UI)
+- Componentização e extração de tokens de design usando [Tailwind CSS](https://tailwindcss.com/) e components primitivos ([Radix UI](https://www.radix-ui.com/) ou [Headless UI](https://headlessui.com/))
 
 
 ## Contribuindo
