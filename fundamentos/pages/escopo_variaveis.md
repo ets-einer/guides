@@ -3,6 +3,7 @@ theme: seriph
 ---
 
 # Escopo das variáveis
+Entendendo mais sobre o ambiente léxico das variáveis
 
 ```js {all|3-16|9-13}
 let wilson = 'ola'; // Variável no escopo global

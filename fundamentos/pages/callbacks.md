@@ -4,7 +4,7 @@ theme: seriph
 
 # Callbacks
 
-Trate funções como qualquer outro valor.
+Trate funções como qualquer outro valor (funções como cidadões de primeira classe)
 
 ```ts
 function hello() {

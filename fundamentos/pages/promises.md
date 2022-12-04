@@ -3,6 +3,7 @@ theme: seriph
 ---
 
 # Promises
+Manipulando execuções e valores futuros
 
 Uma promise, basicamente, simboliza um valor que não necessariamente é conhecido quando a promise é criada.
 Pense nisso como literalmente uma promessa de que no futuro um valor irá vir para esta variável.

@@ -1,6 +1,5 @@
 # Operador Spread
-
-## Iteráveis
+Trabalhe com grandes estruturas de dados com poucas linhas de código.
 
 Para conseguirmos entender o operador spread, precisamos aprender o que são os iteráveis.
 

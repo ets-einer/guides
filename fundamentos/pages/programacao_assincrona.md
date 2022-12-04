@@ -3,8 +3,7 @@ theme: seriph
 ---
 
 # Programação assíncrona e paralelismo
-
-<br>
+Possibilitando resolver problemas mais rápidos de forma multitarefa.
 
 A programação assíncrona nos permite parar e retomar a execução de determinados blocos de código conforme o necessário.
  Este aspecto da programação é mandatório em qualquer linguagem utilizada hoje em dia, pois permite que uma operação que está
