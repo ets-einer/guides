@@ -198,6 +198,6 @@ const fibMemo = (n: number, memo?: Memo): number => {
   return (memo[n] = fibMemo(n - 1, memo) + fibMemo(n - 2, memo));
 };
 
-timeFunction(fib, [20]); // fib took 1.2142000012099743 millisecond===
+timeFunction(fib, [20]); // fib took 1.2142000012099743 millisecond
 timeFunction(fibMemo, [20]); // fibMemo took 0.06120000034570694 milliseconds
 ```
