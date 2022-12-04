@@ -160,14 +160,14 @@ const adicionar = (a, b, c)=>{
 console.log(adicionar(2, 3, 5)) // 10
 
 // Com curry
-const addCurry =(a) => {
+const adicionarCurry =(a) => {
     return (b) => {
         return (c) => {
             return a+b+c
         }
     }
 }
-console.log(addCurry(2)(3)(5)) // 10
+console.log(adicionarCurry(2)(3)(5)) // 10
 ```
 
 Essa técnica é muito utilizada para simplificar chamada de funções, ou para abstrair algum comportamento na utilização de funções.
