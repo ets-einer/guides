@@ -154,15 +154,15 @@ Muito utilizado no cálculo lambda, o Currying é uma técnica que possibilita s
 
 ```ts
 // Sem curry
-const adicionar = (a, b, c)=>{
+const adicionar = (a: number, b: number, c: number) => {
     return a+ b + c
 }
 console.log(adicionar(2, 3, 5)) // 10
 
 // Com curry
-const adicionarCurry =(a) => {
-    return (b) => {
-        return (c) => {
+const adicionarCurry = (a: number) => {
+    return (b: number) => {
+        return (c: number) => {
             return a+b+c
         }
     }
