@@ -29,7 +29,7 @@ function ePar(numero: number) {
   return numero % 2 === 0
 }
 
-array = [1,5,2,3,23,92,8]
+const array = [1,5,2,3,23,92,8]
 
 console.log(array.filter(ePar)) // [ 2, 92, 8 ]
 ```
@@ -45,7 +45,7 @@ function somar(primeiro: number, segundo: number) {
   return primeiro + segundo
 }
 
-array = [1,5,2,3,23,92,8]
+const array = [1,5,2,3,23,92,8]
 // 1 + [5,2,3,23,92,8]
 // 1 + 5 + [2,3,23,92,8]
 // 1 + 5 + 2 + [3,23,92,8]
