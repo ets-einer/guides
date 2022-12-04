@@ -47,18 +47,18 @@ Além de outras coisas!
 
 # Tópicos abordados
 
-- [x] Tipos primitivos do JavaScript
-- [x] Escopo das variáveis
-- [x] Diferença entre const, var e let
-- [x] Promises
-- [x] Uso do async e await
-- [x] Error handling correto do JavaScript
-- [x] Funções map, filter e reduce
-- [x] Operador spread
-- [ ] IIFE
-- [-] Callbacks, closures e currying de funções
-- [ ] Memoização de funções
-- [ ] Classes, binding, polimorfismo e herança baseada em protótipos
+- Tipos primitivos do JavaScript
+- Escopo das variáveis
+- Diferença entre const, var e let
+- Promises
+- Uso do async e await
+- Error handling correto do JavaScript
+- Funções map, filter e reduce
+- Operador spread
+- IIFE
+- Callbacks, closures e currying de funções
+- Memoização de funções
+- Classes, binding, polimorfismo e herança baseada em protótipos
 
 Tudo isso com TypeScript!
 
@@ -83,7 +83,7 @@ hide: false
 ---
 
 ---
-src: ./pages/callbacks.md
+src: ./pages/funcoes.md
 hide: false
 ---
 
