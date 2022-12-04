@@ -24,7 +24,7 @@ drawings:
 css: unocss
 ---
 
-# Conceitos de Base
+# Fundamentals
 
 Aprendendo fundações do JavaScript
 
