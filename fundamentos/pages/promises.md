@@ -22,7 +22,7 @@ function inserirNoMicroondas(objeto: string, tempo: number) {
 
 inserirNoMicroondas('banana', 15000)
     .then(valor => {
-        console.log(valor); // 'banana quente'
+        console.log(valor); // 'banana quente' após 15 segundos
     })
     .catch(err => {
         console.error(err); // Não cairá no erro
