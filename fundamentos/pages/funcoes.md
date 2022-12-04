@@ -171,3 +171,33 @@ console.log(addCurry(2)(3)(5)) // 10
 ```
 
 Essa técnica é muito utilizada para simplificar chamada de funções, ou para abstrair algum comportamento na utilização de funções.
+
+---
+
+## Memoização
+
+É uma técnica de otimização que deixa aplicações mais eficientes, ele faz isso em duas etapas: 
+1. Armazena os resultados de uma computação no *cache*
+2. Pega os resultados calculados do *cache* caso requisitado
+
+<br>
+
+```ts
+// É necessário saber o que são os *closures* e as funções de alta ordem.
+interface Memo { [key: number]: number; }
+
+const fib = (n: number): number => {
+  if (n <= 1) return 1;
+  return fib(n - 1) + fib(n - 2);
+};
+
+const fibMemo = (n: number, memo?: Memo): number => {
+  memo = memo || {};
+  if (memo[n]) return memo[n];
+  if (n <= 1) return 1;
+  return (memo[n] = fibMemo(n - 1, memo) + fibMemo(n - 2, memo));
+};
+
+timeFunction(fib, [20]); // fib took 1.2142000012099743 millisecond===
+timeFunction(fibMemo, [20]); // fibMemo took 0.06120000034570694 milliseconds
+```

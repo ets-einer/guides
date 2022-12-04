@@ -31,7 +31,7 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 - [x] Operador spread
 - [x] IIFE
 - [x] Callbacks, closures e currying de funções
-- [ ] Memoização de funções
+- [x] Memoização de funções
 - [ ] Classes, binding, polimorfismo e herança baseada em protótipos
 
 #### [TypeScript](https://www.typescriptlang.org/docs/)
