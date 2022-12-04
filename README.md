@@ -19,7 +19,7 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 
 ### Tópicos à serem abordados:
 
-#### Conceitos de base
+#### Fundamentos
 
 - Tipos primitivos do JavaScript
 - Escopo das variáveis
