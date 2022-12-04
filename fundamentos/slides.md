@@ -24,7 +24,7 @@ drawings:
 css: unocss
 ---
 
-# Fundamentals
+# Fundamentos
 
 Aprendendo fundações do JavaScript
 

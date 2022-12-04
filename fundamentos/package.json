@@ -1,5 +1,5 @@
 {
-  "name": "fundamentals",
+  "name": "fundamentos",
   "private": true,
   "scripts": {
     "build": "slidev build",
