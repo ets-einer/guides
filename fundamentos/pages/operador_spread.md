@@ -5,18 +5,19 @@ Para conseguirmos entender o operador spread, precisamos aprender o que são os 
 
 Um iterável é um objeto que pode ser iterado utilizando a sintaxe `for...of`, alguns exemplos são arrays, objetos e strings.
 
-```ts {all|1-3|5-7|9-|11,13|12|14-}
+```ts {all|1-3|5-7|9-|9|10|12,14|13|15-}
 for (const x of "oraci") {
-  console.log(x) //o\n r\n a\n c\n i
+  console.log(x) //o,r,a,c,i
 }
 
 for (const x of [1,3,6,9]) {
-  console.log(x) //1\n 3\n 6\n 9
+  console.log(x) //1,3,6,9
 }
 
 const pessoa = { name: "Pirulete", age: 23 + 1 }
+let propriedade: keyof typeof pessoa;
 
-for (const propriedade in pessoa) {
+for (propriedade in pessoa) {
   console.log(`${propriedade}: ${pessoa[propriedade]}`);
 }
 // name: Pirulete
@@ -32,9 +33,9 @@ O operador spread é uma sintaxe que possibilita um iterável para ser expandido
 Em um object literal, o operador spread enumera as propriedades de um objeto e os adiciona no objeto a ser criado.
 
 ```ts {all|1|3|5,6|8-9|11-12|14|15|16}
-const numbers = [1, 2, 3];
+const numbers: [number, number, number] = [1, 2, 3];
 
-function sum(x, y, z) { return x + y + z; }
+function sum(x: number, y: number, z: number) { return x + y + z; }
 
 console.log(sum(...numbers)); // 6
 console.log(sum.apply(null, numbers)); // 6

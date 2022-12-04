@@ -2,7 +2,7 @@
 theme: seriph
 ---
 
-# Var, let e const
+# Diferença entre var, let e const
 As três maneiras de criar uma variável
 
 ```js {all|1-4|5-13|14-16|16-18|19-21|all}
