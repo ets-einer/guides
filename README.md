@@ -36,8 +36,8 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 
 #### [TypeScript](https://www.typescriptlang.org/docs/)
 
-- Uso das features do [TypeScript](https://www.typescriptlang.org/docs/)
-- Interfaces e tipos do [TypeScript](https://www.typescriptlang.org/docs/) (quando e para o que usar)
+- [x] Uso das features do [TypeScript](https://www.typescriptlang.org/docs/)
+- [x] Interfaces e tipos do [TypeScript](https://www.typescriptlang.org/docs/) (quando e para o que usar)
 
 #### Bibliotecas
 
