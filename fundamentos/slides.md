@@ -47,6 +47,7 @@ Além de outras coisas!
 
 # Participantes
 
+- Gustavo Baltazar
 - Wilson
 - Júlia
 - Elizeu
