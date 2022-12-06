@@ -56,7 +56,7 @@ Além de outras coisas!
 - Icaro Duarte
 - Guilherme Hidek Abe
 - SAAS Enjoyer
-
+- Viktor Mamudo
 ---
 
 # Tópicos abordados
