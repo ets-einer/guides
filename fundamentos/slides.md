@@ -45,9 +45,14 @@ JavaScript é:
 Além de outras coisas!
 ---
 
-# Pessoas
+# Participantes
 
-- Wilson e Júlia
+- Wilson
+- Júlia
+- Elizeu
+- Víctor Eduardo Silva da Costa
+- Icaro Duarte
+- Guilherme Hidek Abe
 
 ---
 
