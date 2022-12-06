@@ -48,6 +48,8 @@ Além de outras coisas!
 # Participantes
 
 - Víctor Eduardo Silva da Costa
+- Icaro Duarte
+- Guilherme Hidek Abe
 
 ---
 
