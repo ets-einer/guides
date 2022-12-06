@@ -50,7 +50,7 @@ Além de outras coisas!
 - Felipe Rodrigues Tsuda
 - Gustavo Baltazar
 - Wilson
-- Júlia
+- Júlia Helena
 - Elizeu Magalhães
 - Víctor Eduardo Silva da Costa
 - Icaro Duarte
