@@ -47,6 +47,9 @@ Além de outras coisas!
 
 # Participantes
 
+- Wilson
+- Júlia
+- Elizeu
 - Víctor Eduardo Silva da Costa
 - Icaro Duarte
 - Guilherme Hidek Abe
