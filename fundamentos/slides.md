@@ -45,6 +45,13 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+---
+
+# Participantes
+
+- Felipe Rodrigues Tsuda
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
