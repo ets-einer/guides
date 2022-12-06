@@ -49,7 +49,7 @@ Além de outras coisas!
 
 - Felipe Rodrigues Tsuda
 - Gustavo Baltazar
-- Wilson
+- Vinicius Ferreira
 - Júlia Helena
 - Elizeu Magalhães
 - Víctor Eduardo Silva da Costa
