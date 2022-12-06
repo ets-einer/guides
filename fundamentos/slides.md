@@ -51,7 +51,7 @@ Além de outras coisas!
 - Gustavo Baltazar
 - Wilson
 - Júlia
-- Elizeu
+- Elizeu Magalhães
 - Víctor Eduardo Silva da Costa
 - Icaro Duarte
 - Guilherme Hidek Abe
