@@ -45,11 +45,17 @@ JavaScript é:
 Além de outras coisas!
 ---
 
----
-
 # Participantes
 
 - Felipe Rodrigues Tsuda
+- Gustavo Baltazar
+- Wilson
+- Júlia
+- Elizeu
+- Víctor Eduardo Silva da Costa
+- Icaro Duarte
+- Guilherme Hidek Abe
+
 ---
 
 # Tópicos abordados
