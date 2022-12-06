@@ -45,6 +45,12 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+# Pessoas
+
+- Wilson e Júlia
+
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
