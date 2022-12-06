@@ -55,8 +55,8 @@ Além de outras coisas!
 - Víctor Eduardo Silva da Costa
 - Icaro Duarte
 - Guilherme Hidek Abe
-- SAAS Enjoyer
-
+- Igor Oliveira
+- Viktor Pereira Marinho
 ---
 
 # Tópicos abordados
