@@ -45,6 +45,11 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+---
+# Participantes
+ - Gustavo Baltazar
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
