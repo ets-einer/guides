@@ -45,6 +45,12 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+# Participantes
+
+- Guilherme Hidek Abe
+
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
