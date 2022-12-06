@@ -45,6 +45,12 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+# Participantes
+
+- Icaro Duarte
+
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
