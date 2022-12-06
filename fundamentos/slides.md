@@ -47,6 +47,7 @@ Além de outras coisas!
 
 # Participantes
 
+- Felipe Rodrigues Tsuda
 - Gustavo Baltazar
 - Wilson
 - Júlia
