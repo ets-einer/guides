@@ -45,6 +45,12 @@ JavaScript é:
 Além de outras coisas!
 ---
 
+# Participantes
+
+- Víctor Eduardo Silva da Costa
+
+---
+
 # Tópicos abordados
 
 - Tipos primitivos do JavaScript
