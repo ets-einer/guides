@@ -45,9 +45,16 @@ JavaScript é:
 Além de outras coisas!
 ---
 
----
 # Participantes
- - Gustavo Baltazar
+
+- Gustavo Baltazar
+- Wilson
+- Júlia
+- Elizeu
+- Víctor Eduardo Silva da Costa
+- Icaro Duarte
+- Guilherme Hidek Abe
+
 ---
 
 # Tópicos abordados
