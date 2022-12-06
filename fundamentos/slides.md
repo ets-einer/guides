@@ -47,6 +47,7 @@ Além de outras coisas!
 
 # Participantes
 
+- Icaro Duarte
 - Guilherme Hidek Abe
 
 ---
