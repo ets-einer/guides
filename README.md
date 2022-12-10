@@ -32,7 +32,6 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 - [x] IIFE
 - [x] Callbacks, closures e currying de funções
 - [x] Memoização de funções
-- [ ] Classes, binding, polimorfismo e herança baseada em protótipos
 
 #### [TypeScript](https://www.typescriptlang.org/docs/)
 
@@ -41,13 +40,13 @@ Sendo utilizada stack muito focada no ecosistema JavaScript/[TypeScript](https:/
 
 #### Bibliotecas
 
-- [React](https://reactjs.org/) por baixo dos panos (Ciclo de vida dos componentes, refresh, hooks etc...)
-- Mutações e queries através do [React Query](https://tanstack.com/query/v4) com [TypeScript](https://www.typescriptlang.org/docs/) e [tRPC](https://trpc.io/)
-- Parâmetros de rota, navegação de páginas e o FSR do [React Router](https://reactrouter.com/en/main)
-- Criação de rotas utilizando o [tRPC](https://trpc.io/) com schema de validação ([Zod](https://zod.dev/)) e autenticação por meio de contextos
-- Criação de modelos e entidades relacionadas no [Prisma](https://www.prisma.io/)
-- Mutações e queries no banco de dados com o [Prisma](https://www.prisma.io/)
-- Componentização e extração de tokens de design usando [Tailwind CSS](https://tailwindcss.com/) e components primitivos ([Radix UI](https://www.radix-ui.com/) ou [Headless UI](https://headlessui.com/))
+- [ ] [React](https://reactjs.org/) por baixo dos panos (Ciclo de vida dos componentes, refresh, hooks etc...)
+- [ ] Mutações e queries através do [React Query](https://tanstack.com/query/v4) com [TypeScript](https://www.typescriptlang.org/docs/) e [tRPC](https://trpc.io/)
+- [ ] Parâmetros de rota, navegação de páginas e o FSR do [React Router](https://reactrouter.com/en/main)
+- [ ] Criação de rotas utilizando o [tRPC](https://trpc.io/) com schema de validação ([Zod](https://zod.dev/)) e autenticação por meio de contextos
+- [ ] Criação de modelos e entidades relacionadas no [Prisma](https://www.prisma.io/)
+- [ ] Mutações e queries no banco de dados com o [Prisma](https://www.prisma.io/)
+- [ ] Componentização e extração de tokens de design usando [Tailwind CSS](https://tailwindcss.com/) e components primitivos ([Radix UI](https://www.radix-ui.com/) ou [Headless UI](https://headlessui.com/))
 
 
 ## Contribuindo
